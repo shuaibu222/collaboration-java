@@ -5,7 +5,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class CollaborationJavaApplication {
-	// sadiya feaature
 
 
     public static void main(String[] args) {
