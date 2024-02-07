@@ -1,4 +1,4 @@
-package org.shuaibu.collaboration_java;
+package org.shuaibu.collaboration_java.products;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
