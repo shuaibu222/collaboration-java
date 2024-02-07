@@ -1,4 +1,4 @@
-package org.shuaibu.collaboration_java;
+package org.shuaibu.collaboration_java.products;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotEmpty;
