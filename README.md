@@ -1,4 +1,4 @@
-# First Collaboration on Github
+# Collaboration on project
 
 ##  Contributors:
 
